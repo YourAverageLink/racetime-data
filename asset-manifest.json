@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/racetime-data/static/css/main.5780c01b.css",
+    "main.css": "/racetime-data/static/css/main.467d4ed7.css",
     "main.js": "/racetime-data/static/js/main.0a530b71.js",
     "static/js/453.6f35ddf0.chunk.js": "/racetime-data/static/js/453.6f35ddf0.chunk.js",
     "index.html": "/racetime-data/index.html",
-    "main.5780c01b.css.map": "/racetime-data/static/css/main.5780c01b.css.map",
+    "main.467d4ed7.css.map": "/racetime-data/static/css/main.467d4ed7.css.map",
     "main.0a530b71.js.map": "/racetime-data/static/js/main.0a530b71.js.map",
     "453.6f35ddf0.chunk.js.map": "/racetime-data/static/js/453.6f35ddf0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5780c01b.css",
+    "static/css/main.467d4ed7.css",
     "static/js/main.0a530b71.js"
   ]
 }
