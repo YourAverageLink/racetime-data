@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/racetime-data/static/css/main.5780c01b.css",
+    "main.js": "/racetime-data/static/js/main.4be24d4e.js",
+    "static/js/453.6f35ddf0.chunk.js": "/racetime-data/static/js/453.6f35ddf0.chunk.js",
+    "index.html": "/racetime-data/index.html",
+    "main.5780c01b.css.map": "/racetime-data/static/css/main.5780c01b.css.map",
+    "main.4be24d4e.js.map": "/racetime-data/static/js/main.4be24d4e.js.map",
+    "453.6f35ddf0.chunk.js.map": "/racetime-data/static/js/453.6f35ddf0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5780c01b.css",
+    "static/js/main.4be24d4e.js"
+  ]
+}
