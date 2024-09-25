@@ -78,10 +78,11 @@ export async function numPagesForGame(slug: string): Promise<number> {
 export async function getRaces(
     slug: string,
     page: number = 1,
-    show_entrants: boolean = false
+    show_entrants: boolean = false,
+    per_page: number = 100,
 ): Promise<RaceListData> {
     const pageData = await fetch(
-        `${RACETIME}/${slug}/races/data?show_entrants=${show_entrants}&page=${page}`
+        `${RACETIME}/${slug}/races/data?show_entrants=${show_entrants}&page=${page}&per_page=${per_page}`
     );
     return pageData.json();
 }

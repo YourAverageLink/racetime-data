@@ -7,3 +7,8 @@ The table is sorted by the sum of each player's win rate against each other play
 ### TODO
 - Add general data page (could display number of 1st, 2nd, and 3rd place finishes, win rate, etc.)
 - Add click functionality for Head2Head cells (display a list of races two players faced off in)
+- Cache race data to greatly save on time
+- Refactor how the data is stored; I initially wrote the MUTable to dynamically calculate matchus to specifically avoid having a two (or even three-layer with each different goal) map, but since they're getting calculated anyway (often for noticeable computation time for large goals like OoTR standard races), it would probably mkae more sense to just hold the whole map, calculating the matchups as races are added to the array.
+- Process promises in parallel
+
+Better code is coming eventually, I'm just busy with school and other things at the moment
